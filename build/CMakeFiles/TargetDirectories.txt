@@ -1,0 +1,9 @@
+/home/ionela/Desktop/T1 PAOO/build/CMakeFiles/edit_cache.dir
+/home/ionela/Desktop/T1 PAOO/build/CMakeFiles/rebuild_cache.dir
+/home/ionela/Desktop/T1 PAOO/build/src/CMakeFiles/main-main.dir
+/home/ionela/Desktop/T1 PAOO/build/src/CMakeFiles/lib.dir
+/home/ionela/Desktop/T1 PAOO/build/src/CMakeFiles/main.dir
+/home/ionela/Desktop/T1 PAOO/build/src/CMakeFiles/edit_cache.dir
+/home/ionela/Desktop/T1 PAOO/build/src/CMakeFiles/rebuild_cache.dir
+/home/ionela/Desktop/T1 PAOO/build/src/QualityEmployee/CMakeFiles/edit_cache.dir
+/home/ionela/Desktop/T1 PAOO/build/src/QualityEmployee/CMakeFiles/rebuild_cache.dir
