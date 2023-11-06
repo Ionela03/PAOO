@@ -9,6 +9,7 @@ class QualityEmployee{
         QualityEmployee(const char *name, double salary, const char *position);
         QualityEmployee(const QualityEmployee &employee); //Copy constructor
         ~QualityEmployee(); //destructor
+        QualityEmployee& operator=(const QualityEmployee & employee); //assigment operator
 
         const char *getName() const;
         double getSalary()  const;

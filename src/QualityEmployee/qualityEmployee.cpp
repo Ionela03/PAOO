@@ -43,3 +43,14 @@ void QualityEmployee::updatePosition(char *newPosition){
 void QualityEmployee::updateSalary(double newSalary){
     salary=newSalary;
 }
+QualityEmployee& QualityEmployee::operator=(const QualityEmployee& employee){
+    std::cout<<"\nAssigment operator in used";
+    if(this == &employee){
+        return *this;
+    }
+    this->name=employee.name;
+    this->position=employee.position;
+    this-> salary=employee.salary;
+
+    return *this;
+}
